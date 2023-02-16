@@ -21,7 +21,7 @@ const Home = () => {
   const [searchText, setSearchText] = useState('');
   const [searchTimeout, setSearchTimeout] = useState(null);
   const [searchedResults, setSearchedResults] = useState(null);
-
+  
   const fetchPosts = async () => {
     setLoading(true);
 
