@@ -5,7 +5,7 @@
   "type": "module",
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon ./server/index.js && npm build"
+    "start": "nodemon ./server/index.js && npm build ./client"
   },
   "keywords": [],
   "author": "",
