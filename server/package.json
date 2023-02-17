@@ -18,7 +18,7 @@
   "type": "module",
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon index "
+    "start": "nodemon index"
   },
   "keywords": [],
   "author": "",
